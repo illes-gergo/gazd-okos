@@ -1,0 +1,5 @@
+/home/illesg/Dokumentumok/gazd-okos/bin/Debug/net7.0/publish/gazd-okos
+/home/illesg/Dokumentumok/gazd-okos/bin/Debug/net7.0/publish/gazd-okos.dll
+/home/illesg/Dokumentumok/gazd-okos/bin/Debug/net7.0/publish/gazd-okos.deps.json
+/home/illesg/Dokumentumok/gazd-okos/bin/Debug/net7.0/publish/gazd-okos.runtimeconfig.json
+/home/illesg/Dokumentumok/gazd-okos/bin/Debug/net7.0/publish/gazd-okos.pdb

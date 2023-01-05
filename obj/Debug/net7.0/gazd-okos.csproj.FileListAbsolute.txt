@@ -1,0 +1,15 @@
+/home/illesg/Dokumentumok/gazd-okos/bin/Debug/net7.0/gazd-okos
+/home/illesg/Dokumentumok/gazd-okos/bin/Debug/net7.0/gazd-okos.deps.json
+/home/illesg/Dokumentumok/gazd-okos/bin/Debug/net7.0/gazd-okos.runtimeconfig.json
+/home/illesg/Dokumentumok/gazd-okos/bin/Debug/net7.0/gazd-okos.dll
+/home/illesg/Dokumentumok/gazd-okos/bin/Debug/net7.0/gazd-okos.pdb
+/home/illesg/Dokumentumok/gazd-okos/obj/Debug/net7.0/gazd-okos.csproj.AssemblyReference.cache
+/home/illesg/Dokumentumok/gazd-okos/obj/Debug/net7.0/gazd-okos.GeneratedMSBuildEditorConfig.editorconfig
+/home/illesg/Dokumentumok/gazd-okos/obj/Debug/net7.0/gazd-okos.AssemblyInfoInputs.cache
+/home/illesg/Dokumentumok/gazd-okos/obj/Debug/net7.0/gazd-okos.AssemblyInfo.cs
+/home/illesg/Dokumentumok/gazd-okos/obj/Debug/net7.0/gazd-okos.csproj.CoreCompileInputs.cache
+/home/illesg/Dokumentumok/gazd-okos/obj/Debug/net7.0/gazd-okos.dll
+/home/illesg/Dokumentumok/gazd-okos/obj/Debug/net7.0/refint/gazd-okos.dll
+/home/illesg/Dokumentumok/gazd-okos/obj/Debug/net7.0/gazd-okos.pdb
+/home/illesg/Dokumentumok/gazd-okos/obj/Debug/net7.0/gazd-okos.genruntimeconfig.cache
+/home/illesg/Dokumentumok/gazd-okos/obj/Debug/net7.0/ref/gazd-okos.dll

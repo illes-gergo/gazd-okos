@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YhlahxqM/xc8s/btXW36DwhuvsNHsNgp/li0UqpY6MhQA51OFhq3e3PXhXdG486QIOEZXKUfS5h0vN1lkY8C/w==",
+  "success": true,
+  "projectFilePath": "/home/illesg/Dokumentumok/gazd-okos/gazd-okos.csproj",
+  "expectedPackageFiles": [
+    "/home/illesg/.nuget/packages/microsoft.netcore.app.runtime.win-x64/7.0.1/microsoft.netcore.app.runtime.win-x64.7.0.1.nupkg.sha512",
+    "/home/illesg/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/7.0.1/microsoft.aspnetcore.app.runtime.win-x64.7.0.1.nupkg.sha512",
+    "/home/illesg/.nuget/packages/microsoft.netcore.app.host.win-x64/7.0.1/microsoft.netcore.app.host.win-x64.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
